@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+@theme {
+  /* Nexus Sunset Palette */
+  --color-nexus-navy: #212d3b;      /* Darkest Navy */
+  --color-nexus-steel: #5d7d9a;     /* Muted Steel Blue */
+  --color-nexus-red: #c3272b;       /* Deep Accent Red */
+  --color-nexus-orange: #f35e2f;    /* Primary Action Orange */
+  --color-nexus-peach: #f98c5f;     /* Secondary Highlight */
+}
+
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
