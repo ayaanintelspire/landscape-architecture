@@ -61,10 +61,10 @@ const Portfolio = ({ data }) => {
                 </div>
               </div>
 
-              {/* Top-right Tag */}
-              <div className="absolute top-8 right-8 bg-white/10 backdrop-blur-md border border-white/20 text-white px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-tight">
-                Hawaii '25
-              </div>
+              {/* Top-right Tag - Dynamic from homeData */}
+          <div className="absolute top-8 right-8 bg-white/10 backdrop-blur-md border border-white/20 text-white px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-[0.25em]">
+          {project.tag}
+         </div>
             </div>
           ))}
         </div>

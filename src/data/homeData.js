@@ -84,21 +84,25 @@ export const homeData = {
     {
       id: 1,
       title: "The Skyline Estate",
+       tag: "RESIDENTIAL '25",
       imageUrl: "https://images.unsplash.com/photo-1643643704183-f7a8ede67efa?q=80&w=867&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 2,
       title: "Nexus Commercial Plaza",
+      tag: "COMMERCIAL '25", 
       imageUrl: "https://plus.unsplash.com/premium_photo-1733317319340-780116c22c75?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 3,
       title: "Horizon Infinity Pool",
+      tag: "AQUATIC ARCH '25",
       imageUrl: "https://images.unsplash.com/photo-1656801027928-f83fe473ae0a?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 4,
       title: "Coastal Conservation Site",
+      tag: "ECOLOGICAL '25",
       imageUrl: "https://images.unsplash.com/photo-1660441993225-abcbffb0bea5?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ],

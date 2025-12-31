@@ -12,7 +12,7 @@ const Hero = ({ data }) => {
 
     const interval = setInterval(() => {
       setCurrentIndex((prev) => (prev === sliderImages.length - 1 ? 0 : prev + 1));
-    }, 3000); // 3 seconds
+    }, 6000); // 6 seconds
 
     return () => clearInterval(interval);
   }, [sliderImages.length]);
